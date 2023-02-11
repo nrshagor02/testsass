@@ -9,4 +9,4 @@ permissions:
 
 jobs:
   uneditable:
-    uses: testsass/pull.yml@main
+    uses: testsass/.github/pull.yml@main
